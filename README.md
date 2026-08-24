@@ -1,2 +1,2 @@
-# vertigis_templates
-Issues- und Weiterentwicklung für die VertiGIS Templates
+# Viewer Templates
+Issues- und Weiterentwicklung für die Viewer Templates
