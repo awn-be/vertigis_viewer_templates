@@ -2,21 +2,21 @@
 
 Alle Änderungen an den Viewer Templates werden in diesem File dokumentiert.
 
-The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
+Das Format basiert auf [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 
 ## Guiding Principles
-- Changelogs are for humans, not machines.
-- The same types of changes should be grouped.
-- The latest version comes first.
-- The release date of each version is displayed.
+- Changelogs sind für Menschen, nicht Maschinen.
+- Gleiche change Typen sollten gruppiert werden.
+- Die aktuellste Version kommt zuerst.
+- Für jede Version wird das Releasedatum erfasst.
 
-## Types of changes
-- **Added** for new features.
-- **Changed** for changes in existing functionality.
-- **Deprecated** for soon-to-be removed features.
-- **Removed** for now removed features.
-- **Fixed** for any bug fixes.
-- **Security** in case of vulnerabilities.
+## Veränderungstypen
+- **Added** für neue Features.
+- **Changed** für Anpassungen von bestehender Funktionalität.
+- **Deprecated** für Features welche bald gelöscht werden.
+- **Removed** für Features welche gelöscht wurden.
+- **Fixed** für Bugfixes.
+- **Security** für Sicherheitsrelevante Themen.
 
 <br /> <br />
 
