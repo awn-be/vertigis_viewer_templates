@@ -29,3 +29,6 @@ Das Format basiert auf [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 ### Removed
 
 - advanced edit Tools in mobile templates (de/fr)
+## 2026-08-18
+### Added
+- Click on table row in attribute table, zooms to feature. For implementation details see: https://github.com/awn-be/vertigis_admin/issues/6
