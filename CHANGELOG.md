@@ -24,6 +24,11 @@ Das Format basiert auf [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 
 ## [Released]
 
+## 2026-10-06
+**Changed**
+- XLSX-Export: Benutzerdefinierter Befehl erweitert mit "geometryFormat": "NONE"
+- Drucken: weitere Druckmassstäbe eingefügt (100'000, 200'000, 400'000).
+
 ## 2026-08-24
 
 ### Removed
