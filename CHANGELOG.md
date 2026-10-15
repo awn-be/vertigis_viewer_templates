@@ -24,6 +24,12 @@ Das Format basiert auf [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 
 ## [Released]
 
+## 2026-10-15
+**Changed**
+- app_template_bgi_fr: Übersetzung Grundkarten bereinigt
+**Added**
+- ResultatTabelle: Funktion "Resultat entfernen" bei den Ereignis-Aktionen hinzugefügt
+
 ## 2026-10-06
 **Changed**
 - XLSX-Export: Benutzerdefinierter Befehl erweitert mit "geometryFormat": "NONE"
