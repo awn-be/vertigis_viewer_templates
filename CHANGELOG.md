@@ -38,6 +38,7 @@ Das Format basiert auf [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 ## 2026-10-06
 **Changed**
 - XLSX-Export: Benutzerdefinierter Befehl erweitert mit "geometryFormat": "NONE"
+  https://github.com/awn-be/vertigis_admin/issues/57
 - Drucken: weitere Druckmassstäbe eingefügt (100'000, 200'000, 400'000).
 
 ## 2026-08-24
