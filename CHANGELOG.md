@@ -24,6 +24,10 @@ Das Format basiert auf [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 
 ## [Released]
 
+## 2026-10-20
+**Fixed**
+- Messen/Editieren in geladenem Projekt (https://github.com/awn-be/vertigis_admin/issues/60)
+
 ## 2026-10-15
 **Changed**
 - app_template_bgi_fr: Übersetzung Grundkarten bereinigt
