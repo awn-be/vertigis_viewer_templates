@@ -28,6 +28,10 @@ Das Format basiert auf [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 **Fixed**
 - Messen/Editieren in geladenem Projekt (https://github.com/awn-be/vertigis_admin/issues/60)
 
+**Added**
+- Koordinatenanzeige hinzugefügt (https://github.com/awn-be/vertigis_admin/issues/28)
+- Masstabsleiste hinzugefügt (https://github.com/awn-be/vertigis_admin/issues/29)
+
 ## 2026-10-15
 **Changed**
 - app_template_bgi_fr: Übersetzung Grundkarten bereinigt
