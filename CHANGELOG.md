@@ -21,6 +21,10 @@ Das Format basiert auf [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 <br /> <br />
 
 ## [Unreleased]
+## 2026-11-02
+**Fixed**
+- Zoomen bei Koordinatensuche [https://github.com/awn-be/vertigis_admin/issues/60](https://github.com/awn-be/vertigis_admin/issues/32)
+- Grenzpunkte bei Button Waldbesitzerabfrage eingebaut [https://github.com/awn-be/vertigis_admin/issues/38](https://github.com/awn-be/vertigis_admin/issues/38)
 
 ## [Released]
 
