@@ -23,7 +23,7 @@ Das Format basiert auf [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 ## [Unreleased]
 ## 2026-11-02
 **Fixed**
-- Zoomen bei Koordinatensuche [https://github.com/awn-be/vertigis_admin/issues/60](https://github.com/awn-be/vertigis_admin/issues/32)
+- Zoomen bei Koordinatensuche (mobile/desktop) [https://github.com/awn-be/vertigis_admin/issues/60](https://github.com/awn-be/vertigis_admin/issues/32)
 - Grenzpunkte bei Button Waldbesitzerabfrage eingebaut [https://github.com/awn-be/vertigis_admin/issues/38](https://github.com/awn-be/vertigis_admin/issues/38)
 
 ## [Released]
@@ -33,8 +33,8 @@ Das Format basiert auf [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 - Messen/Editieren in geladenem Projekt (https://github.com/awn-be/vertigis_admin/issues/60)
 
 **Added**
-- Koordinatenanzeige hinzugefügt (https://github.com/awn-be/vertigis_admin/issues/28)
-- Masstabsleiste hinzugefügt (https://github.com/awn-be/vertigis_admin/issues/29)
+- Koordinatenanzeige hinzugefügt (desktop) (https://github.com/awn-be/vertigis_admin/issues/28)
+- Masstabsleiste hinzugefügt (mobile/desktop) (https://github.com/awn-be/vertigis_admin/issues/29)
 
 ## 2026-10-15
 **Changed**
