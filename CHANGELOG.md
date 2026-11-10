@@ -21,6 +21,9 @@ Das Format basiert auf [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 <br /> <br />
 
 ## [Unreleased]
+## 2026-11-10
+**Fixed**
+-  Workflow Panel schliesst bei Klick auf Karte [https://github.com/awn-be/vertigis_admin/issues/67](https://github.com/awn-be/vertigis_admin/issues/67)
 ## 2026-11-02
 **Fixed**
 - Zoomen bei Koordinatensuche (mobile/desktop) [https://github.com/awn-be/vertigis_admin/issues/60](https://github.com/awn-be/vertigis_admin/issues/32)
