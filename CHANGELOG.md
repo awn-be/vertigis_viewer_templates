@@ -22,6 +22,10 @@ Das Format basiert auf [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 
 ## [Unreleased]
 
+## 2026-11-16
+**Added**
+-  3D-Messen-Tool hinzugefügt [https://github.com/awn-be/vertigis_admin/issues/44](https://github.com/awn-be/vertigis_admin/issues/44)
+
 ## 2026-11-10
 **Changed**
 -  Generalisierung der Geometrien verhindern: Services --> Hervorhebung --> Performance --> Max. Entfernungsabweichung (Meter) von 50m auf 0m setzen
