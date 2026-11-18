@@ -22,6 +22,9 @@ Das Format basiert auf [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 
 ## [Unreleased]
 
+
+## [Released]
+
 ## 2026-11-16
 **Added**
 -  3D-Messen-Tool hinzugefügt [https://github.com/awn-be/vertigis_admin/issues/44](https://github.com/awn-be/vertigis_admin/issues/44)
@@ -37,8 +40,6 @@ Das Format basiert auf [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 **Fixed**
 - Zoomen bei Koordinatensuche (mobile/desktop) [https://github.com/awn-be/vertigis_admin/issues/60](https://github.com/awn-be/vertigis_admin/issues/32)
 - Grenzpunkte bei Button Waldbesitzerabfrage eingebaut [https://github.com/awn-be/vertigis_admin/issues/38](https://github.com/awn-be/vertigis_admin/issues/38)
-
-## [Released]
 
 ## 2026-10-20
 **Fixed**
